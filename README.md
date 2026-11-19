@@ -6,11 +6,39 @@
 
 <h3 align="center">A passionate Software and DevOps Engineer, Helper, Bilingual and Coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=juandgo&label=Profile%20views&color=0e75b6&style=flat" alt="juandgo" /> </p>
 
 **I'm a fullstack software developer engineer with solid experience in designing, developing, solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
 
 -----
+
+
+ 👷‍♂️ create your own custom badge
+  <div>
+  <samp>
+    <h2 align="center">u can try using these website for creating your own custom badge</h2>
+    <p align="center">
+      <a href="https://forthebadge.com/generator/" target="blank">
+        <img src="https://forthebadge.com/images/mark.svg" img align="center" height="50"
+        alt="for the badge"/></a>        
+      <a href="https://badgen.net/" target="blank">
+        <img src="https://badgen.net/static/favicon.png" img align="center" height="50"
+        alt="badgen"/></a>
+      <a href="https://shields.io/" target="blank">
+        <img src="https://raw.githubusercontent.com/badges/shields/master/readme-logo.svg" img align="center" height="50"
+        alt="shields.io"/></a>
+    </p>
+    </samp>
+  </div>
+
+<details open>
+  <summary>😒 random stuff</summary>
+<div>
+<samp>
+<h2 align="center"> just an ascii art of me holding an umbrella </h2>
+</samp>
+</div>
+**I'm a fullstack software developer engineer with solid experience in designing, developing, solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
+
 
 :computer: **Software Engineer**  
 
