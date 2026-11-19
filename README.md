@@ -16,6 +16,8 @@
 </div>
 **I'm a fullstack software developer engineer with solid experience in designing, developing, solutions that optimize processes and drive technological innovation. With a strong command of programming, systems architecture, and an advanced understanding of emerging technologies, I specialize in creating scalable and sustainable solutions tailored to meet business needs.**
 
+<details>
+
 
 :computer: **Software Engineer**  
 
@@ -45,8 +47,6 @@
 <a href="https://x.com/GoJuand" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="frankgrijalba" height="30" width="40" /></a>
 </p>
 
-
-<details>
   <summary>☎️ contact me</summary>
 <div>
   <samp>
